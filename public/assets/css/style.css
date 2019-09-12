@@ -1,0 +1,10 @@
+span {
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.card {
+    display: none;
+    width: 90%;
+    margin: 0 auto;
+}
